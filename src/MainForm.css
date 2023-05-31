@@ -1,0 +1,37 @@
+.mainHeading {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  margin-bottom: 20px;
+}
+
+.formLabel {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.AppMainCard {
+  padding: 10px;
+  box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+  border-radius: 5px;
+  backdrop-filter: blur(14px);
+  background-color: rgba(255, 255, 255, 0.2);
+  text-align: center;
+  margin-top: 110px;
+  margin-left: 330px;
+  width: 700px;
+}
+
+.cardBtn {
+  border: none;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+  color: #d4d4dc;
+  background-color: inherit;
+  margin-right: 1.563rem;
+  margin-left: 0.938rem;
+}
+
+.toastContainer{
+  margin: 1.25rem;
+  box-shadow: 0.125rem 0.25rem 0.5rem 0rem rgba(0,255,255,0.7);
+}
